@@ -6,7 +6,7 @@
     "file": "LICENSE.md",
     "type": "Multiple"
   },
-  "name": "webrtc-ios",
+  "name": "webrtc-prebuild-framework",
   "platforms": {
     "ios": "10.0"
   },
