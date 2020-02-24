@@ -14,11 +14,11 @@
     "README.md"
   ],
   "source": {
-    "git": "https://github.com/tappytaps/ios-webrtc.git", "tag" : "1.M80"
+    "git": "https://github.com/tappytaps/ios-webrtc.git", "tag" : "1.M81"
   },
   "summary": "WebRTC iOS SDK",
   "vendored_frameworks": [
     "Frameworks/WebRTC.framework"
   ],
-  "version": "1.M80"
+  "version": "1.M81"
 }
